@@ -17,7 +17,7 @@ Next.js App Router, TypeScript, Tailwind CSS, Better Auth, MongoDB, shadcn/ui pa
 
 ## Environment
 
-Copy `.env.example` to `.env.local` and fill in the MongoDB URI, Better Auth secret and URL, Google OAuth credentials, ImgBB API key, and Express API URL. Never commit `.env.local`.
+Copy `.env.example` to `.env.local` and fill in the MongoDB URI, Better Auth secret and URL, Google OAuth credentials, ImgBB API key, and Express API URL. Configure local MongoDB as a replica set (`rs0`) or use Atlas; the Express borrowing API requires transaction support. Never commit `.env.local`.
 
 For Google OAuth, register the callback URL `${BETTER_AUTH_URL}/api/auth/callback/google` in the Google Cloud project. Keep the same production `BETTER_AUTH_URL` in the Express service so its JWKS verifier checks the matching issuer and audience.
 
