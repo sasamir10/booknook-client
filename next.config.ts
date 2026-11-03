@@ -1,4 +1,7 @@
 import type { NextConfig } from "next";
+import { loadServerEnvironment } from "./src/lib/server-env";
+
+if (process.env.NODE_ENV === "production") loadServerEnvironment(process.env);
 
 const nextConfig: NextConfig = {
   images: {
