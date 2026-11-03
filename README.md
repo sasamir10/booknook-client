@@ -1,4 +1,4 @@
-# 📚 BookNook — Online Library Management Platform
+# 📚 BookNook - Online Library Management Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-App%20Router-black?logo=next.js" alt="Next.js" />
