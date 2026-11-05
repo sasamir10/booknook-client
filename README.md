@@ -1,4 +1,4 @@
-# 📚 BookNook — Online Library Management Platform
+# 📚 BookNook - Online Library Management Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-App%20Router-black?logo=next.js" />
@@ -22,15 +22,15 @@
 
 ## ✨ Features
 
-- 🔐 **Google Authentication** — Secure login with Better Auth and Google OAuth.
-- 📚 **Book Discovery** — Browse books and explore detailed information.
-- 🔎 **Search & Filtering** — Search by title and filter by category.
-- ➕ **Book Management** — Add, edit, and delete your own books.
-- 📖 **Borrow & Return** — Borrow available books and manage returns.
-- 👤 **My Books** — Manage your contributed book collection.
-- 📋 **My Borrows** — Track personal borrowing records.
-- 🖼️ **Image Upload** — Upload book covers using ImgBB.
-- 📱 **Responsive UI** — Optimized for desktop, tablet, and mobile.
+- 🔐 **Google Authentication** - Secure login with Better Auth and Google OAuth.
+- 📚 **Book Discovery** - Browse books and explore detailed information.
+- 🔎 **Search & Filtering** - Search by title and filter by category.
+- ➕ **Book Management** - Add, edit, and delete your own books.
+- 📖 **Borrow & Return** - Borrow available books and manage returns.
+- 👤 **My Books** - Manage your contributed book collection.
+- 📋 **My Borrows** - Track personal borrowing records.
+- 🖼️ **Image Upload** - Upload book covers using ImgBB.
+- 📱 **Responsive UI** - Optimized for desktop, tablet, and mobile.
 
 ## 🛠️ Tech Stack
 
@@ -97,5 +97,5 @@ Open [http://localhost:3000](http://localhost:3000).
 ---
 
 <p align="center">
-  📚 <strong>BookNook — Discover. Borrow. Read.</strong>
+  📚 <strong>BookNook - Discover. Borrow. Read.</strong>
 </p>
